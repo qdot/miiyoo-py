@@ -1,4 +1,6 @@
-# Miiyoo - Kiiroo Sex Toy Access Library and Server Simulator
+# Miiyoo - Kiiroo Sex Toy Access Library and Server Simulator - DEPRECATED
+
+**DEPRECATED** - Work moved to the [Buttplug Sex Toy Framework](https://buttplug.io)
 
 Miiyoo is a library for providing bluetooth access to Kiiroo sex toys,
 as well as creating a simulation of the web server that comes with the
